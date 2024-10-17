@@ -6,11 +6,16 @@
 
  <h3> Como Jogar </h3>
  
- 1 - Ao iniciar o jogo, o jogador escolhe quantos dígitos terá o cadeado.
+ 1 - Ao iniciar o jogo, o jogador escolhe quantos dígitos terá o cadeado. 
+ 
  2 - O número de tentativas será o dobro da quantidade de dígitos escolhidos.
+ 
  3 - O jogador deve adivinhar os números que forma a senha o cadeado.
+ 
  4  - A cada tentativa, o jogador será informado se os números digitados estão corretos ou não.
+ 
  5 - O jogo termina quando:
+ 
      - O jogador advinha a combinação da senha,
      ou
      - A tentativa acaba e o jogador perde o jogo.
