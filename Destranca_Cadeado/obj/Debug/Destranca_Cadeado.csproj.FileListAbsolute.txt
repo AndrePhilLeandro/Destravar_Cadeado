@@ -5,3 +5,10 @@ C:\Users\Administrator\Desktop\Destranca_Cadeado\Destranca_Cadeado\obj\Debug\Des
 C:\Users\Administrator\Desktop\Destranca_Cadeado\Destranca_Cadeado\obj\Debug\Destranca_Cadeado.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\Destranca_Cadeado\Destranca_Cadeado\obj\Debug\Destranca_Cadeado.exe
 C:\Users\Administrator\Desktop\Destranca_Cadeado\Destranca_Cadeado\obj\Debug\Destranca_Cadeado.pdb
+C:\Users\Administrator\Desktop\Destravar_Cadeado-main\Destravar_Cadeado-main\Destranca_Cadeado\bin\Debug\Destranca_Cadeado.exe.config
+C:\Users\Administrator\Desktop\Destravar_Cadeado-main\Destravar_Cadeado-main\Destranca_Cadeado\bin\Debug\Destranca_Cadeado.exe
+C:\Users\Administrator\Desktop\Destravar_Cadeado-main\Destravar_Cadeado-main\Destranca_Cadeado\bin\Debug\Destranca_Cadeado.pdb
+C:\Users\Administrator\Desktop\Destravar_Cadeado-main\Destravar_Cadeado-main\Destranca_Cadeado\obj\Debug\Destranca_Cadeado.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Destravar_Cadeado-main\Destravar_Cadeado-main\Destranca_Cadeado\obj\Debug\Destranca_Cadeado.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Destravar_Cadeado-main\Destravar_Cadeado-main\Destranca_Cadeado\obj\Debug\Destranca_Cadeado.exe
+C:\Users\Administrator\Desktop\Destravar_Cadeado-main\Destravar_Cadeado-main\Destranca_Cadeado\obj\Debug\Destranca_Cadeado.pdb
