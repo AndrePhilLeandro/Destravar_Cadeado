@@ -28,7 +28,7 @@ namespace Destranca_Cadeado
 
                     case 2:
                         Console.WriteLine("Regras do Jogo \n");
-                        Console.WriteLine("Ao iniciar o jogo selecione quantos digitos vai ter, para que a senha seja descoberta,\na quantidade de tentativas será igual a quantidade de digitos. \n");
+                        Console.WriteLine("Ao iniciar o jogo selecione quantos digitos vai ter, para que a senha seja descoberta,\na quantidade de tentativas será o dobro da quantidade de digitos. \n");
                         Console.WriteLine("Jogador ganha quando descobrir todos os digitos para destravar o cadeado antes do acabar todas as tentativas. \n");
                     break;                
                 }
